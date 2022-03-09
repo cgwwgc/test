@@ -1,0 +1,5 @@
+首页网址：http://sugarcane.zhangjisenlab.cn:5010/dist/#/home
+genomebrowser：http://sugarcane.zhangjisenlab.cn/jbrowse/JBrowse-1.16.11/index.html?data=data%2Fjson%2Fsgdv2&loc=Chr3B%3A21594659..27134658&tracks=&highlight=Chr3B%3A39105001..46275000
+blast：http://sugarcane.zhangjisenlab.cn/viroblast1/viroblast.php
+
+
